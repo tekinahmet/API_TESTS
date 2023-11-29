@@ -42,9 +42,8 @@
       <recent name="C:\Users\Administrator\Desktop\BATCH 179-180 QA ENG\IdeaProjects\API_TESTS\src\test\java" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Requests_Response" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="get_requests.Requests_Response" />
+  <component name="RunManager" selected="JUnit.Get02">
+    <configuration name="Get01.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="API_TESTS" />
       <extension name="coverage">
         <pattern>
@@ -52,13 +51,84 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="get_requests" />
+      <option name="MAIN_CLASS_NAME" value="get_requests.Get01" />
+      <option name="METHOD_NAME" value="get01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get01.get01b" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_TESTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_requests" />
+      <option name="MAIN_CLASS_NAME" value="get_requests.Get01" />
+      <option name="METHOD_NAME" value="get01b" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get01.get02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_TESTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_requests" />
+      <option name="MAIN_CLASS_NAME" value="get_requests.Get01" />
+      <option name="METHOD_NAME" value="get02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_TESTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_requests" />
+      <option name="MAIN_CLASS_NAME" value="get_requests.Get02" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get02.get02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_TESTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_requests" />
+      <option name="MAIN_CLASS_NAME" value="get_requests.Get02" />
+      <option name="METHOD_NAME" value="get02" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Requests_Response" />
+        <item itemvalue="JUnit.Get02" />
+        <item itemvalue="JUnit.Get02.get02" />
+        <item itemvalue="JUnit.Get01.get02" />
+        <item itemvalue="JUnit.Get01.get01b" />
+        <item itemvalue="JUnit.Get01.get01" />
       </list>
     </recent_temporary>
   </component>
