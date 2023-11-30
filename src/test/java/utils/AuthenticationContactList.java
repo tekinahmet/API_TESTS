@@ -4,7 +4,6 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.*;
 
 public class AuthenticationContactList {
-
     public static String generateToken(){
         String body = "{\n" +
                 "    \"email\": \"magdaleno.anav@forkshape.com\",\n" +

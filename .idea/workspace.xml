@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6df1d182-16cc-4380-a2c2-0d0ec80b00f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/HerokuAppBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseUrl/JsonPlaceholderBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get_requests/Get07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get_requests/Get08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/baseUrl/ContactListBaseUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseUrl/ContactListBaseUrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/baseUrl/PetStoreBaseUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseUrl/PetStoreBaseUrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/post_requests/Post01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/post_requests/Post01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/AuthenticationContactList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/AuthenticationContactList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tekinahmet&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fa0775ec-0657-4eea-a66c-34fb2be7ad7d" />
+        <option name="url" value="https://github.com/tekinahmet/API_TESTS.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="doxgmfd6" />
   </component>
@@ -38,6 +55,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2Yolp1KmwA4T86wnHBwm7UwHzVP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +68,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/BATCH 179-180 QA ENG/IdeaProjects/API_TESTS&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/BATCH 179-180 QA ENG/IdeaProjects/APIBatch179NT-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -61,7 +86,7 @@
       <recent name="baseUrl" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Get06.get06">
+  <component name="RunManager" selected="JUnit.Get08.get08">
     <configuration name="AuthenticationContactList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="utils.AuthenticationContactList" />
       <module name="API_TESTS" />
@@ -71,37 +96,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Get03.get03HardAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API_TESTS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_requests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_requests" />
-      <option name="MAIN_CLASS_NAME" value="get_requests.Get03" />
-      <option name="METHOD_NAME" value="get03HardAssertion" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Get06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API_TESTS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="get_requests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="get_requests" />
-      <option name="MAIN_CLASS_NAME" value="get_requests.Get06" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,6 +111,38 @@
       <option name="PACKAGE_NAME" value="get_requests" />
       <option name="MAIN_CLASS_NAME" value="get_requests.Get06" />
       <option name="METHOD_NAME" value="get06" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get07.get07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_TESTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_requests" />
+      <option name="MAIN_CLASS_NAME" value="get_requests.Get07" />
+      <option name="METHOD_NAME" value="get07" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get08.get08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_TESTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_requests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_requests" />
+      <option name="MAIN_CLASS_NAME" value="get_requests.Get08" />
+      <option name="METHOD_NAME" value="get08" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Get06.get06" />
+        <item itemvalue="JUnit.Get08.get08" />
+        <item itemvalue="JUnit.Get07.get07" />
         <item itemvalue="JUnit.Post01.post01" />
-        <item itemvalue="JUnit.Get06" />
-        <item itemvalue="JUnit.Get03.get03HardAssertion" />
         <item itemvalue="Application.AuthenticationContactList" />
+        <item itemvalue="JUnit.Get06.get06" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +185,12 @@
       <workItem from="1701340660449" duration="219000" />
       <workItem from="1701340908195" duration="27000" />
       <workItem from="1701340947962" duration="67000" />
-      <workItem from="1701341028327" duration="183000" />
+      <workItem from="1701341028327" duration="736000" />
+      <workItem from="1701342017841" duration="42000" />
+      <workItem from="1701342089443" duration="131000" />
+      <workItem from="1701342865472" duration="70000" />
+      <workItem from="1701347360773" duration="3463000" />
+      <workItem from="1701371970887" duration="6785000" />
     </task>
     <servers />
   </component>
